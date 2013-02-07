@@ -1,6 +1,6 @@
 # Poetic License
 
-Dedicated to the public domain by Alexander E Genaud
+Dedicated to the public domain by Alexander E Genaud.
 
   - https://github.com/alexgenaud/Poetic-License
   - http://genaud.net/2005/10/poetic-license/
